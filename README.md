@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm ZiYao (Z)
 
 - 🔭 I’m currently working on algorithmic trading strategies and Web3 projects
 - 🌱 I’m currently learning on everything I can think of
